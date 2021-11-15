@@ -2,7 +2,7 @@
 
 <h3> 👨‍💻 &nbsp;About Me </h3>
 
-<img align="right" width="200" src="https://github.com/Hevertonlemos/hevertonlemos/blob/master/images/travel.gif" />
+<img align="right" width="200" src="https://github.com/Hevertonlemos/hevertonlemos/blob/main/images/G0752917.JPG" />
 
 - 🤔   Exploring new technologies and developing software solutions.
 - 🎓   Gradueted in Computer Science at <a href="https://www.univali.br">UNIVALI</a>.
